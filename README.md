@@ -4,4 +4,86 @@ This page is for sharing a free book about boring stuff. This book is supposed t
 
 The book is not complete yet and never will be. That is why it is free and available for all. Time will increase the number of contents in the book, adding sections, paragraphs and new chapters, according also to your suggestions on the issues page. In this page (https://github.com/xseris/SFAS/issues)
 
-Writing a book usually involves in consuming time and almost all knows time is money. So if you like the knowledge inside the book just consider subscribing here: https://www.patreon.com/xseris, otherwise just enjoy the reading. Contributors names will be added at the end of the book.
+Book updates:
+
+18/12/2020
+
++ Hymmnos script
++ Albeti cipher
++ Tabula recta
++ Trithemius cipher
++ Vigenere cipher
++ Autokey cipher
++ Emission spectrum
+
+02/04/2020
+
++ New York Point
++ Barbier
++ Moon system
++ Raphigraphy
+
+27/03/2020
+
++ Gerudo alphabet
++ Sheikah alphabet
++ Gnommish alphabet
++ Dinotopian alphabet
++ Matoran alphabet
+
+13/12/2019
+
++ Josephus problem
++ Monty Hall problem
+
+09/11/2019
+
++ Goron alphabet
++ Unown alphabet
++ Tentai show
+
+21/08/2019
+
++ Signal Flags
++ ICS
++ NATO
+
+19/08/2019
+
++ Trifid cipher
++ ADFGX cipher
++ ADFGVX cipher
+
+14/08/2019
+
++ Polybius Square
++ Knock Code
++ Bifid Cipher
+
+07/08/2019
+
++ Enochian Alphabet
++ The alphabet of the Magi
++ Daggers Alphabet
++ Nug-Soth
+
+05/08/2019
+
++ Solitaire cipher
+
+03/08/2019
+
++ Gold bug cipher
+
+01/08/2019
+
++ Columnar transposition ciphers
++ Myszkowski transposition
+
+29/07/2019
+
++ Route cipher
+
+28/07/2019
+
++ Coordinate information hiding
