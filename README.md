@@ -6,6 +6,14 @@ The book is not complete yet and never will be. That is why it is free and avail
 
 Book updates:
 
+11/01/2021
+
++ Cardan Grill
++ Modular Arithmetic - Modulo operator
++ Modular Arithmetic - Congruence
++ Modular Arithmetic - Residue classes
++ Modular Arithmetic - Addition and subtraction
+
 18/12/2020
 
 + Hymmnos script
