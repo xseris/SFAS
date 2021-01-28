@@ -6,6 +6,12 @@ The book is not complete yet and never will be. That is why it is free and avail
 
 Book updates:
 
+28/01/2021
+
++ Trouser Semaphore
++ Hexahue
++ Cistercian Numerals
+
 11/01/2021
 
 + Cardan Grill
