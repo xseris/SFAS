@@ -7,6 +7,23 @@ The book is not complete yet and never will be. That is why it is free and avail
 
 ### Book updates:
 
+15/11/2025
+
++ Finite Fields
++ 8421 BCD
++ Aiken Code
++ Excess-3 Code
++ Gray Code
++ 2-of-5 Code
++ POSTNET Code
++ Code 39
++ Omnicode
++ Shamir Secret Sharing (SSS)
++ Diceware Passphrase
++ Scream Cipher
++ Periodic Table Steganography
++ Deadfish esoteric language
+
 01/02/2021
 
 + Quadoo
