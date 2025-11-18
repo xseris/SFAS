@@ -7,6 +7,17 @@ The book is not complete yet and never will be. That is why it is free and avail
 
 ### Book updates:
 
+18/11/2025
+
++ 4-Square Cipher
++ Yautja language
++ Nyctography Square
++ American Sign Language
++ ELIA Frames
++ Webdings
++ Wingdings
++ Zapf Dingbats
+
 15/11/2025
 
 + Finite Fields
